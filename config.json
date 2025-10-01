@@ -21,22 +21,22 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://blog.zyx-2012.cn",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
+				"href": "https://www.zyx-2012.cn",
 				"icon": "xiaolian",
-				"text": "About"
+				"text": "主页"
 			},
 			"third": {
-				"href": "mailto:hi@simonaking.com",
+				"href": "mailto:1051270035@qq.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/SimonAKing",
+				"href": "https://github.com/Zyx-2012",
 				"icon": "github",
 				"text": "Github"
 			}
